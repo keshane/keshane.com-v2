@@ -1,3 +1,27 @@
 baseURL = 'https://keshane.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Keshane Gan'
+theme = 'hugo-coder'
+
+[params]
+author = "Keshane Gan"
+description = "Keshane Gan's personal website"
+info = ["food enthusiast"]
+colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/keshane/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/keshane/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
