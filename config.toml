@@ -1,4 +1,4 @@
-baseURL = 'https://keshane.github.io/'
+baseURL = 'https://keshane.com/'
 languageCode = 'en-us'
 title = 'Keshane Gan'
 theme = 'hugo-coder'
