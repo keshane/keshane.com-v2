@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Keshane Gan'
 theme = 'hugo-coder'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 author = "Keshane Gan"
 description = "Keshane Gan's personal website"
