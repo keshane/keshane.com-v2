@@ -12,6 +12,12 @@ it's easier to maintain.
 Initially a web-based app developed to roll dice after I forgot the dice for the _Wingspan_ board game, it has expanded
 to also tally up scores. I have plans to expand this with a strategy blog.
 
+## Wingspan scorer
+
+<https://birdwidth-score-4wrcc5pt2a-wm.a.run.app/games>
+
+In-progress feature for birdwidth.com to score _Wingspan_ games without doing manual calculations.
+
 ## Sudoku
 
 A Sudoku solver set up behind a Google Cloud Function.
