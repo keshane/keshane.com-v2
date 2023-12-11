@@ -14,7 +14,7 @@ to also tally up scores. I have plans to expand this with a strategy blog.
 
 ## Wingspan scorer
 
-<https://birdwidth-score-4wrcc5pt2a-wm.a.run.app/games>
+<https://birdwidth.com/games>
 
 In-progress feature for birdwidth.com to score _Wingspan_ games without doing manual calculations.
 
