@@ -1,3 +1,7 @@
-I'm based in Seattle, WA. I like to play video games (currently on _Tears of the Kingdom_) and board games (primarily
-[Wingspan](https://birdwidth.com)), to cook new recipes, to explore the outdoors, and to photograph people and nature. I
-work at [Verily](https://verily.com) as a software engineer.
+Raised in Memphis, TN and currently based in Seattle, WA.
+
+I'm building solutions for healthier patient outcomes at [CareHarmony](https://care-harmony.com) as a software
+engineer. In previous roles, I worked with other great teams in the health tech industry at [Verily](https://verily.com)
+and [Siemens Healthineers](https://www.siemens-healthineers.com/).
+
+Obsessed with my cat, food, and photographing the perfect bird.

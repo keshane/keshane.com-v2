@@ -24,6 +24,12 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/keshane/"
 
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 5
+url = "https://www.instagram.com/greatblueheronphotos/"
+
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
