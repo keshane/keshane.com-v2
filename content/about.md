@@ -5,3 +5,5 @@ engineer. In previous roles, I worked with other great teams in the health tech 
 and [Siemens Healthineers](https://www.siemens-healthineers.com/).
 
 Obsessed with my cat, food, and photographing the perfect bird.
+
+![Salmon stretching](/images/Salmon.jpg)
